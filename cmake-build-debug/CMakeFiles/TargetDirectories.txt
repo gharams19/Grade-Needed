@@ -1,0 +1,3 @@
+/Users/gharam/CLionProjects/grade_need/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gharam/CLionProjects/grade_need/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gharam/CLionProjects/grade_need/cmake-build-debug/CMakeFiles/grade_need.dir
